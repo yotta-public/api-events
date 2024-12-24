@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit and push the new JSON file
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "yotta-public"
+          git config --global user.email "jnune97vlc@gmail.com"
           git add api/eventos.json  # Asegúrate de que la ruta al archivo JSON es correcta
           git commit -m "Update eventos.json"
           git push origin main  # Empuja los cambios a la rama principal del repositorio
