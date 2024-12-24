@@ -1,0 +1,317 @@
+[
+    {
+        "deporte": "NFL",
+        "hora": "19:00",
+        "dia": "25/12/2024",
+        "canal": "M+ Vamos",
+        "encuentro": "Pittsburgh Steelers - Kansas City Chiefs"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "20:30",
+        "dia": "25/12/2024",
+        "canal": "Movistar Plus+",
+        "encuentro": "Dallas Mavericks - Minnesota Timberwolves"
+    },
+    {
+        "deporte": "NFL",
+        "hora": "22:30",
+        "dia": "25/12/2024",
+        "canal": "M+ Vamos",
+        "encuentro": "Houston Texans - Baltimore Ravens"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "23:00",
+        "dia": "25/12/2024",
+        "canal": "Movistar Plus+",
+        "encuentro": "Boston Celtics -Philadelphia 76ers"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "13:30",
+        "dia": "26/12/2024",
+        "canal": "Movistar Plus+",
+        "encuentro": "Manchester City - Everton"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "26/12/2024",
+        "canal": "DAZN 1",
+        "encuentro": "Chelsea - Fulham"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "26/12/2024",
+        "canal": "DAZN 2",
+        "encuentro": "Newcastle - Aston Villa"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "26/12/2024",
+        "canal": "DAZN 3",
+        "encuentro": "Nottingham Forest - Tottenham"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "26/12/2024",
+        "canal": "DAZN 4",
+        "encuentro": "Southampton - West Ham"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "18:30",
+        "dia": "26/12/2024",
+        "canal": "DAZN 1",
+        "encuentro": "Wolverhampton - Manchester Utd."
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:00",
+        "dia": "26/12/2024",
+        "canal": "M+ Vamos",
+        "encuentro": "ALBA - Real Madrid"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "21:00",
+        "dia": "26/12/2024",
+        "canal": "DAZN 1",
+        "encuentro": "Liverpool - Leicester"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "02:00",
+        "dia": "27/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "New Orleans Pelicans - Houston Rockets"
+    },
+    {
+        "deporte": "NFL",
+        "hora": "02:20",
+        "dia": "27/12/2024",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Chicago Bears - Seattle Seahawks"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:00",
+        "dia": "27/12/2024",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Joventut Badalona - Hiopos Lleida"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "20:30",
+        "dia": "27/12/2024",
+        "canal": "DAZN 2",
+        "encuentro": "Brighton & Hove Albion - Brentford"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "20:30",
+        "dia": "27/12/2024",
+        "canal": "Movistar Plus+",
+        "encuentro": "FC Barcelona - Estrella Roja"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "20:30",
+        "dia": "27/12/2024",
+        "canal": "M+ Deportes 3",
+        "encuentro": "Baskonia - Par\u00eds"
+    },
+    {
+        "deporte": "F. Sala",
+        "hora": "21:00",
+        "dia": "27/12/2024",
+        "canal": "Esport 3",
+        "encuentro": "Xota - Barcelona"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "21:15",
+        "dia": "27/12/2024",
+        "canal": "DAZN 1",
+        "encuentro": "Arsenal - Ipswich Town"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "21:30",
+        "dia": "27/12/2024",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Dreamland Gran Canaria - Valencia Basket"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "01:00",
+        "dia": "28/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "Orlando Magic - New York knicks"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "18:00",
+        "dia": "28/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "Unicaja - R\u00edo Breog\u00e1n"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "18:00",
+        "dia": "28/12/2024",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Leyma Coru\u00f1a - Surne Bilbao Basket"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "18:00",
+        "dia": "28/12/2024",
+        "canal": "Teledeporte",
+        "encuentro": "Perfumer\u00edas Avenida-Dur\u00e1n Maquinaria Ensino"
+    },
+    {
+        "deporte": "Rugby",
+        "hora": "19:00",
+        "dia": "28/12/2024",
+        "canal": "M+ Deportes 3",
+        "encuentro": "Harlequins - Leicester"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:30",
+        "dia": "28/12/2024",
+        "canal": "Arag\u00f3n TV",
+        "encuentro": "Sedis B\u00e0squet - Basket Zaragoza"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "20:45",
+        "dia": "28/12/2024",
+        "canal": "M+ Vamos",
+        "encuentro": "Morabanc Andorra - La Laguna Tenerife"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "20:45",
+        "dia": "28/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "UCAM Murcia - Coviran Granada"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "02:30",
+        "dia": "29/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "Golden State Warriors - Phoenix Suns"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "12:30",
+        "dia": "29/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "Casademont Zaragoza - B\u00e0squet Girona"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "12:30",
+        "dia": "29/12/2024",
+        "canal": "Marca.com",
+        "encuentro": "Zamora-Oviedo"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "12:30",
+        "dia": "29/12/2024",
+        "canal": "Esport 3",
+        "encuentro": "Joventut-Spar Girona"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "15:30",
+        "dia": "29/12/2024",
+        "canal": "Movistar Plus+",
+        "encuentro": "Leicester - Manchester City"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "29/12/2024",
+        "canal": "DAZN 2",
+        "encuentro": "Tottenham - Wolverhampton"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "29/12/2024",
+        "canal": "DAZN 3",
+        "encuentro": "Everton - Nottingham Forest"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "16:00",
+        "dia": "29/12/2024",
+        "canal": "DAZN 4",
+        "encuentro": "Fulham - Bournemouth"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "17:00",
+        "dia": "29/12/2024",
+        "canal": "M+ Deportes",
+        "encuentro": "Baxi Manresa - Baskonia"
+    },
+    {
+        "deporte": "Rugby",
+        "hora": "18:00",
+        "dia": "29/12/2024",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Usap - Stade Rochelais"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "18:15",
+        "dia": "29/12/2024",
+        "canal": "DAZN 1",
+        "encuentro": "West Ham - Liverpool"
+    },
+    {
+        "deporte": "NFL",
+        "hora": "19:00",
+        "dia": "29/12/2024",
+        "canal": "M+ Deportes 4",
+        "encuentro": "Minnesota Vikings - Green Bay Packers"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:00",
+        "dia": "29/12/2024",
+        "canal": "\u00c0 Punt",
+        "encuentro": "Valencia Basket-Jairis"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "20:30",
+        "dia": "29/12/2024",
+        "canal": "Movistar Plus+",
+        "encuentro": "Real Madrid - Bar\u00e7a"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "21:30",
+        "dia": "29/12/2024",
+        "canal": "M+ Vamos",
+        "encuentro": "Orlando Magic - Brooklyn Nets"
+    },
+    {
+        "deporte": "NFL",
+        "hora": "22:25",
+        "dia": "29/12/2024",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Philadelphia Eagles - Dallas Cowboys"
+    }
+]

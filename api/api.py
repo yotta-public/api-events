@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
+import os  # Importar el módulo os para trabajar con rutas de archivos
 
 # Función para obtener los datos de un día específico y transformar la fecha
 def obtener_datos_dia(url):
@@ -17,7 +18,7 @@ def obtener_datos_dia(url):
         dia_texto_partes = dia_texto.split()
         if len(dia_texto_partes) >= 5:
             dia_numerico = dia_texto_partes[0]
-            dia_numerico = ''.join(filter(str.isdigit, dia_numerico)) #Aquí quito el nombre del dia por ejemplo Miercoles ya que dia_numerico es por ejemplo Miercoles25
+            dia_numerico = ''.join(filter(str.isdigit, dia_numerico))  # Eliminar el día de la semana (Ejemplo: Miércoles25)
             mes_nombre = dia_texto_partes[2]  # Este es el nombre del mes (por ejemplo, "Diciembre")
             año = dia_texto_partes[4]
             mes_actual = mes_a_numero(mes_nombre)  # Convertimos el nombre del mes a número Diciembre -> 12
@@ -68,8 +69,14 @@ url = "https://www.marca.com/programacion-tv.html"
 # Obtener los datos
 datos = obtener_datos_dia(url)
 
-# Guardar los datos en un archivo JSON
-with open('eventos.json', 'w') as json_file:
+# Obtener la ruta del directorio donde se encuentra el script
+directorio_actual = os.path.dirname(os.path.abspath(__file__))
+
+# Crear la ruta completa para el archivo JSON
+ruta_json = os.path.join(directorio_actual, 'eventos.json')
+
+# Guardar los datos en un archivo JSON en el mismo directorio
+with open(ruta_json, 'w') as json_file:
     json.dump(datos, json_file, indent=4)
 
 print(json.dumps(datos, indent=4))
