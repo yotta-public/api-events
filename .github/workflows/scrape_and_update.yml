@@ -35,4 +35,4 @@ jobs:
           git config --global user.name "yotta-public"
           git config --global user.email "jnune97vlc@gmail.com"
           git add api/eventos.json  # Asegúrate de que la ruta al archivo JSON es correcta
-          git push https://${{ secrets.GH_TOKEN }}@github.com/yotta-public/api-events.git HEAD:main
+          git diff --quiet || (git commit -m "Update eventos.json" && git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main)
