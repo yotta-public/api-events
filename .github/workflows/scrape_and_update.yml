@@ -25,6 +25,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
+      - name: Debug eventos.json
+        run: |
+          cat api/eventos.json
+      - name: List files in the directory
+        run: |
+          ls -R api
+      - name: Debug git diff
+        run: |
+          git diff
 
       - name: Run scraper script
         run: |
