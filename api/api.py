@@ -76,7 +76,13 @@ directorio_actual = os.path.dirname(os.path.abspath(__file__))
 ruta_json = os.path.join(directorio_actual, 'eventos.json')
 
 # Guardar los datos en un archivo JSON en el mismo directorio
-with open(ruta_json, 'w') as json_file:
-    json.dump(datos, json_file, indent=4)
+try:
+    # Guardar los datos en un archivo JSON
+    with open(ruta_json, 'w') as json_file:
+        json.dump(datos, json_file, indent=4)
+    print(f"Archivo guardado correctamente en {ruta_json}")
+except Exception as e:
+    print(f"Error al guardar el archivo JSON: {e}")
+
 
 print(json.dumps(datos, indent=4))
