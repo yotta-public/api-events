@@ -29,6 +29,10 @@ jobs:
       - name: Run scraper script
         run: |
           python3 api/api.py  # Asegúrate de que tu script esté nombrado correctamente y esté en el repositorio.
+      - name: Debug GH_TOKEN
+        run: echo "GH_TOKEN is ${GH_TOKEN:+'defined'}"
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Commit and push the new JSON file
         env:
