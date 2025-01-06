@@ -33,20 +33,25 @@ jobs:
         run: echo "GH_TOKEN is ${GH_TOKEN:+'defined'}"
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      
+      - name: Print eventos.json content
+        run: | 
+          cat api/eventos.json
 
       - name: Commit and push the new JSON file
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "yotta-public"
           git config --global user.email "jnune97vlc@gmail.com"
-          git add api/eventos.json  # Asegúrate de que la ruta al archivo JSON es correcta
-          git diff --quiet || (git commit -m "Update eventos.json" && git push https://github-actions:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main)
+          git add api/eventos.json
+          git commit -m "Update eventos.json" || echo "No changes to commit"
+          git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
 
       - name: Debug eventos.json
         run: |
           cat api/eventos.json
 
-      - name: Debug git diff
+      - name: Show git diff
         run: |
-          git diff
+          git diff api/eventos.json
+
