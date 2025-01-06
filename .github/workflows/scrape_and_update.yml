@@ -2,16 +2,16 @@ name: Scrape and Update JSON
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Esto ejecuta el flujo de trabajo todos los días a la medianoche UTC.
+    - cron: '0 0 * * *'  # Ejecuta el flujo de trabajo todos los días a la medianoche UTC.
   push:
     branches:
-      - main  # Esto ejecuta el flujo de trabajo cuando se hace un push a la rama 'main'.
+      - main  # Ejecuta el flujo de trabajo cuando se hace un push a la rama 'main'.
   workflow_dispatch:  # Permite ejecutar manualmente el flujo de trabajo desde la interfaz de GitHub.
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -25,26 +25,24 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
-      
-      - name: List files in the directory
-        run: |
-          ls -R api
-      
 
       - name: Run scraper script
         run: |
           python3 api/api.py  # Asegúrate de que tu script esté nombrado correctamente y esté en el repositorio.
-    
+
       - name: Commit and push the new JSON file
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "yotta-public"
           git config --global user.email "jnune97vlc@gmail.com"
           git add api/eventos.json  # Asegúrate de que la ruta al archivo JSON es correcta
-          git diff --quiet || (git commit -m "Update eventos.json" && git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main)
-      
+          git diff --quiet || (git commit -m "Update eventos.json" && git push https://github-actions:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main)
+
       - name: Debug eventos.json
         run: |
           cat api/eventos.json
+
       - name: Debug git diff
         run: |
           git diff
