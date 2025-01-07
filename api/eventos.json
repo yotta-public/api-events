@@ -1,47 +1,5 @@
 [
     {
-        "deporte": "NFL",
-        "hora": "02:20",
-        "dia": "06/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Detroit Lions - Minnesota Vikings"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "19:00",
-        "dia": "06/01/2025",
-        "canal": "LA 1",
-        "encuentro": "Deportiva Minera - Real Madrid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:00",
-        "dia": "06/01/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Inter - Milan"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:30",
-        "dia": "06/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Baskonia - Real Madrid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "06/01/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Wolverhampton - Nottingham Forest"
-    },
-    {
-        "deporte": "Motor",
-        "hora": "21:45",
-        "dia": "06/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Etapa 2: Bisha-Bisha (1057 km.)"
-    },
-    {
         "deporte": "NBA",
         "hora": "02:00",
         "dia": "07/01/2025",
@@ -166,5 +124,75 @@
         "dia": "08/01/2025",
         "canal": "Teledeporte",
         "encuentro": "Etapa 4: Al Henakiyah-Alula"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "01:00",
+        "dia": "09/01/2025",
+        "canal": "M+ Deportes",
+        "encuentro": "Cleveland Cavaliers - Oklahoma City Thunder"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "18:00",
+        "dia": "09/01/2025",
+        "canal": "Esport 3",
+        "encuentro": "NKA Universitas Pecs-Spar Girona"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:00",
+        "dia": "09/01/2025",
+        "canal": "M+ Vamos",
+        "encuentro": "Monaco - Fc Barcelona"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "20:00",
+        "dia": "09/01/2025",
+        "canal": "Movistar Plus+",
+        "encuentro": "Real Madrid CF- RCD Mallorca"
+    },
+    {
+        "deporte": "Motor",
+        "hora": "21:45",
+        "dia": "09/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Etapa 5: Alula-Hail"
+    },
+    {
+        "deporte": "NBA",
+        "hora": "01:00",
+        "dia": "10/01/2025",
+        "canal": "M+ Deportes",
+        "encuentro": "Orlando Magic - Minnesota Timberwolves"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:00",
+        "dia": "10/01/2025",
+        "canal": "Movistar Plus+",
+        "encuentro": "Zalgiris - Real Madrid"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "20:30",
+        "dia": "10/01/2025",
+        "canal": "LALIGA TV HYPERMOTION",
+        "encuentro": "Granada - Burgos"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "20:45",
+        "dia": "10/01/2025",
+        "canal": "M+ Deportes",
+        "encuentro": "Virtus - Baskonia"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "21:00",
+        "dia": "10/01/2025",
+        "canal": "GOL PLAY",
+        "encuentro": "Rayo - Celta"
     }
 ]
