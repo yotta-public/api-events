@@ -1,90 +1,6 @@
 [
     {
         "deporte": "NBA",
-        "hora": "01:30",
-        "dia": "08/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Dallas Mavericks - Los Angeles Lakers"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "13:00",
-        "dia": "08/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Sorteo Octavos de Final"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "17:00",
-        "dia": "08/01/2025",
-        "canal": "\u00c0 Punt",
-        "encuentro": "Fenerbah\u00e7e - Valencia Basket"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:00",
-        "dia": "08/01/2025",
-        "canal": "Arag\u00f3n TV",
-        "encuentro": "Tofas - Basket Zaragoza"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:00",
-        "dia": "08/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Egipto-Noruega"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "20:00",
-        "dia": "08/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Espa\u00f1a-Argentina"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:00",
-        "dia": "08/01/2025",
-        "canal": "M+ Ellas V",
-        "encuentro": "Real Madrid - Levante UD"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:00",
-        "dia": "08/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Athletic Club - FC Barcelona"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:00",
-        "dia": "08/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Baskonia - Leyma Coru\u00f1a"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:00",
-        "dia": "08/01/2025",
-        "canal": "Arag\u00f3n TV",
-        "encuentro": "Basket Zaragoza - USK Praga"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:30",
-        "dia": "08/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Coviran Granada - Real Madrid"
-    },
-    {
-        "deporte": "Motor",
-        "hora": "21:45",
-        "dia": "08/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Etapa 4: Al Henakiyah-Alula (588 km.)"
-    },
-    {
-        "deporte": "NBA",
         "hora": "01:00",
         "dia": "09/01/2025",
         "canal": "M+ Deportes",
@@ -148,6 +64,13 @@
     },
     {
         "deporte": "Balonmano",
+        "hora": "18:00",
+        "dia": "10/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Ruman\u00eda-Egipto"
+    },
+    {
+        "deporte": "Balonmano",
         "hora": "20:00",
         "dia": "10/01/2025",
         "canal": "Teledeporte",
@@ -182,6 +105,13 @@
         "encuentro": "Philadelphia 76ers - New Orleans Pelicans"
     },
     {
+        "deporte": "F. Sala",
+        "hora": "11:00",
+        "dia": "11/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Ence Mar\u00edn Futsal-Nueces Ronda Atl\u00e9tico Torcal"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "12:00",
         "dia": "11/01/2025",
@@ -194,6 +124,13 @@
         "dia": "11/01/2025",
         "canal": "DAZN 2",
         "encuentro": "Costa Adeje Tenerife - Deportivo"
+    },
+    {
+        "deporte": "H. Patines",
+        "hora": "13:00",
+        "dia": "11/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "CP Vila-Sana Coop D'Ivars-Telecable Hockey Club"
     },
     {
         "deporte": "F\u00fatbol",
@@ -246,10 +183,10 @@
     },
     {
         "deporte": "Baloncesto",
-        "hora": "17:30",
+        "hora": "17:00",
         "dia": "11/01/2025",
         "canal": "Teledeporte",
-        "encuentro": "Estudiantes-Gernika"
+        "encuentro": "Movistar Estudiantes-Lointek Gernika"
     },
     {
         "deporte": "Baloncesto",
@@ -297,6 +234,13 @@
         "deporte": "F. Sala",
         "hora": "19:00",
         "dia": "11/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "CA Osasuna Magna-ElPozo Murcia"
+    },
+    {
+        "deporte": "F. Sala",
+        "hora": "19:00",
+        "dia": "11/01/2025",
         "canal": "Esport 3",
         "encuentro": "C\u00f2rdoba-Bar\u00e7a"
     },
@@ -337,10 +281,10 @@
     },
     {
         "deporte": "Motor",
-        "hora": "21:45",
+        "hora": "22:30",
         "dia": "11/01/2025",
         "canal": "Teledeporte",
-        "encuentro": "Etapa 6: Hail-Al Duwadimi"
+        "encuentro": "Etapa 6: Hail-Al Duwadimi (829 km.)"
     },
     {
         "deporte": "NFL",
@@ -355,6 +299,13 @@
         "dia": "12/01/2025",
         "canal": "Movistar Plus+",
         "encuentro": "Minnesota Timberwolves - Memphis Grizzlies"
+    },
+    {
+        "deporte": "NFL",
+        "hora": "02:00",
+        "dia": "12/01/2025",
+        "canal": "M+ Deportes 2",
+        "encuentro": "Baltimore Ravens - Pittsburgh Steelers"
     },
     {
         "deporte": "F\u00fatbol",
@@ -495,5 +446,12 @@
         "dia": "12/01/2025",
         "canal": "Teledeporte",
         "encuentro": "Etapa 7: Al Duwadimi-Al Duwadimi"
+    },
+    {
+        "deporte": "NFL",
+        "hora": "22:25",
+        "dia": "12/01/2025",
+        "canal": "M+ Deportes",
+        "encuentro": "Philadelphia Eagles - Green Bay Packers"
     }
 ]
