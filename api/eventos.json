@@ -2,65 +2,23 @@
     {
         "deporte": "NBA",
         "hora": "01:00",
-        "dia": "09/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Cleveland Cavaliers - Oklahoma City Thunder"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:00",
-        "dia": "09/01/2025",
-        "canal": "Esport 3",
-        "encuentro": "NKA Universitas Pecs-Spar Girona"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:00",
-        "dia": "09/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Noruega-Ruman\u00eda"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:00",
-        "dia": "09/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Monaco - Fc Barcelona"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "20:00",
-        "dia": "09/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Eslovaquia-Argentina"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:00",
-        "dia": "09/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Real Madrid CF- RCD Mallorca"
-    },
-    {
-        "deporte": "Motor",
-        "hora": "21:35",
-        "dia": "09/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Etapa 5: Alula-Hail (491 km.)"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "01:00",
         "dia": "10/01/2025",
         "canal": "M+ Deportes",
         "encuentro": "Orlando Magic - Minnesota Timberwolves"
     },
     {
-        "deporte": "Baloncesto",
-        "hora": "19:00",
+        "deporte": "NCAA",
+        "hora": "01:30",
         "dia": "10/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Zalgiris - Real Madrid"
+        "canal": "M+ Deportes 2",
+        "encuentro": "Penn State - Notre Dame"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "18:00",
+        "dia": "10/01/2025",
+        "canal": "Marca.com",
+        "encuentro": "Al Ahli-Al Shabab FC"
     },
     {
         "deporte": "Balonmano",
@@ -68,6 +26,13 @@
         "dia": "10/01/2025",
         "canal": "Teledeporte",
         "encuentro": "Ruman\u00eda-Egipto"
+    },
+    {
+        "deporte": "Baloncesto",
+        "hora": "19:00",
+        "dia": "10/01/2025",
+        "canal": "Movistar Plus+",
+        "encuentro": "Zalgiris - Real Madrid"
     },
     {
         "deporte": "Balonmano",
@@ -103,6 +68,13 @@
         "dia": "11/01/2025",
         "canal": "M+ Vamos",
         "encuentro": "Philadelphia 76ers - New Orleans Pelicans"
+    },
+    {
+        "deporte": "NCAA",
+        "hora": "01:30",
+        "dia": "11/01/2025",
+        "canal": "M+ Deportes",
+        "encuentro": "Texas - Ohio State"
     },
     {
         "deporte": "F. Sala",
@@ -145,6 +117,13 @@
         "dia": "11/01/2025",
         "canal": "LALIGA TV HYPERMOTION",
         "encuentro": "Racing Ferrol - Cartagena"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "14:45",
+        "dia": "11/01/2025",
+        "canal": "Marca.com",
+        "encuentro": "Al-Orobah FC-Al Hilal"
     },
     {
         "deporte": "F\u00fatbol",
@@ -350,6 +329,13 @@
         "encuentro": "Dreamland Gran Canaria - Bar\u00e7a"
     },
     {
+        "deporte": "Ciclocross",
+        "hora": "13:00",
+        "dia": "12/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "As Pontes (A Coru\u00f1a)"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "14:00",
         "dia": "12/01/2025",
@@ -427,11 +413,25 @@
         "encuentro": "B\u00e0squet Girona - Baskonia"
     },
     {
+        "deporte": "Balonmano",
+        "hora": "18:00",
+        "dia": "12/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Replasa Beti Onak-Grafometal La Rioja"
+    },
+    {
         "deporte": "Baloncesto",
         "hora": "19:00",
         "dia": "12/01/2025",
         "canal": "Marca.com",
         "encuentro": "Amics Castell\u00f3-HLA Alicante"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "20:00",
+        "dia": "12/01/2025",
+        "canal": "Movistar Plus+",
+        "encuentro": "Barcelona-Real Madrid"
     },
     {
         "deporte": "NBA",
@@ -445,7 +445,7 @@
         "hora": "21:45",
         "dia": "12/01/2025",
         "canal": "Teledeporte",
-        "encuentro": "Etapa 7: Al Duwadimi-Al Duwadimi"
+        "encuentro": "Etapa 7: Al Duwadimi-Al Duwadimi (745 km.)"
     },
     {
         "deporte": "NFL",
