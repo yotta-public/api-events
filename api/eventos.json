@@ -2,69 +2,6 @@
     {
         "deporte": "NBA",
         "hora": "01:00",
-        "dia": "10/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Orlando Magic - Minnesota Timberwolves"
-    },
-    {
-        "deporte": "NCAA",
-        "hora": "01:30",
-        "dia": "10/01/2025",
-        "canal": "M+ Deportes 2",
-        "encuentro": "Penn State - Notre Dame"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:00",
-        "dia": "10/01/2025",
-        "canal": "Marca.com",
-        "encuentro": "Al Ahli-Al Shabab FC"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:00",
-        "dia": "10/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Ruman\u00eda-Egipto"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:00",
-        "dia": "10/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Zalgiris - Real Madrid"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "20:00",
-        "dia": "10/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Espa\u00f1a-Eslovaquia"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "10/01/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Granada - Burgos"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "10/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Virtus - Baskonia"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "10/01/2025",
-        "canal": "GOL PLAY",
-        "encuentro": "Rayo - Celta"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "01:00",
         "dia": "11/01/2025",
         "canal": "M+ Vamos",
         "encuentro": "Philadelphia 76ers - New Orleans Pelicans"
@@ -250,6 +187,13 @@
         "dia": "11/01/2025",
         "canal": "Movistar Plus+",
         "encuentro": "Real Oviedo - Sporting"
+    },
+    {
+        "deporte": "Balonmano",
+        "hora": "21:00",
+        "dia": "11/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Espa\u00f1a-Noruega"
     },
     {
         "deporte": "Motor",
