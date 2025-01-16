@@ -2,121 +2,16 @@
     {
         "deporte": "NBA",
         "hora": "02:00",
-        "dia": "15/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Milwaukee Bucks - Sacramento Kings"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "04:30",
-        "dia": "15/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Djokovic-Faria"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "04:30",
-        "dia": "15/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Nishioka-Alcaraz"
-    },
-    {
-        "deporte": "F. Sala",
-        "hora": "12:00",
-        "dia": "15/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Sorteo Cuartos de Final"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "19:30",
-        "dia": "15/01/2025",
-        "canal": "M+ Copa del Rey",
-        "encuentro": "Almer\u00eda-Legan\u00e9s"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "19:30",
-        "dia": "15/01/2025",
-        "canal": "M+ LALIGA TV",
-        "encuentro": "Pontevedra - Getafe"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "20:30",
-        "dia": "15/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Alemania-Polonia"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:30",
-        "dia": "15/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "FC Barcelona - Panathinaikos"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "15/01/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Everton - Aston Villa"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "15/01/2025",
-        "canal": "DAZN 3",
-        "encuentro": "Newcastle - Wolverhampton"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "15/01/2025",
-        "canal": "DAZN 4",
-        "encuentro": "Leicester - Crystal Palace"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "15/01/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Arsenal - Tottenham"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "15/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Barcelona - Betis"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "21:00",
-        "dia": "15/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Dreamland Gran Canaria - Joventut Badalona"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:30",
-        "dia": "15/01/2025",
-        "canal": "LA 1",
-        "encuentro": "Elche - At. Madrid"
-    },
-    {
-        "deporte": "Motor",
-        "hora": "22:05",
-        "dia": "15/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Etapa 10: Haradh-Shubaytah (638 km.)"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "02:00",
         "dia": "16/01/2025",
         "canal": "M+ Deportes",
         "encuentro": "San Antonio Spurs - Memphis Grizzlies"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "03:15",
+        "dia": "16/01/2025",
+        "canal": "Eurosport 2",
+        "encuentro": "Shelton - Carre\u00f1o"
     },
     {
         "deporte": "Golf",
@@ -124,6 +19,13 @@
         "dia": "16/01/2025",
         "canal": "M+ Golf",
         "encuentro": "Jornada 1"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "09:00",
+        "dia": "16/01/2025",
+        "canal": "Eurosport 1",
+        "encuentro": "Sinner - Schoolkate"
     },
     {
         "deporte": "F\u00fatbol",
@@ -301,6 +203,13 @@
         "encuentro": "Jornada 3"
     },
     {
+        "deporte": "F. Sala",
+        "hora": "11:00",
+        "dia": "18/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Poio Pescamar-Lainco Rubi FS"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "12:00",
         "dia": "18/01/2025",
@@ -313,6 +222,13 @@
         "dia": "18/01/2025",
         "canal": "DAZN 3",
         "encuentro": "Granada - Costa Adeje Tenerife"
+    },
+    {
+        "deporte": "Waterpolo",
+        "hora": "13:00",
+        "dia": "18/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Zodiac CN Atletic Barceloneta-Solartradex CN Matar\u00f3"
     },
     {
         "deporte": "F\u00fatbol",
