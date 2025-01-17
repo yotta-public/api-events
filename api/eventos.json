@@ -1,122 +1,24 @@
 [
     {
         "deporte": "NBA",
-        "hora": "02:00",
-        "dia": "16/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "San Antonio Spurs - Memphis Grizzlies"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "03:15",
-        "dia": "16/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Shelton - Carre\u00f1o"
-    },
-    {
-        "deporte": "Golf",
-        "hora": "08:30",
-        "dia": "16/01/2025",
-        "canal": "M+ Golf",
-        "encuentro": "Jornada 1"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "09:00",
-        "dia": "16/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Sinner - Schoolkate"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:05",
-        "dia": "16/01/2025",
-        "canal": "Marca.com",
-        "encuentro": "Al-Hilal-Al Fateh"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:00",
-        "dia": "16/01/2025",
-        "canal": "Marca.com",
-        "encuentro": "Al-Ittihad FC-Al-Raed"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:00",
-        "dia": "16/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Espa\u00f1a-Chile"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:00",
-        "dia": "16/01/2025",
-        "canal": "Arag\u00f3n TV",
-        "encuentro": "Reyer Venecia - Basket Zaragoza"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "19:30",
-        "dia": "16/01/2025",
-        "canal": "M+ Copa del Rey",
-        "encuentro": "Athletic-Osasuna"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "19:30",
-        "dia": "16/01/2025",
-        "canal": "M+ LALIGA TV",
-        "encuentro": "Real Sociedad - Rayo Vallecano"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:30",
-        "dia": "16/01/2025",
-        "canal": "Esport 3",
-        "encuentro": "Uni GIrona - NKA Universitas Pecs"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "16/01/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Ipswich Town - Brighton & Hove Albion"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "16/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Real Madrid - Olympiacos"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "16/01/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Manchester Utd. - Southampton"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:30",
-        "dia": "16/01/2025",
-        "canal": "LA 1",
-        "encuentro": "Real Madrid - Celta de Vigo"
-    },
-    {
-        "deporte": "Motor",
-        "hora": "21:45",
-        "dia": "16/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Etapa 11: Shubaytah-Shubaytah (506 km.)"
-    },
-    {
-        "deporte": "NBA",
         "hora": "01:00",
         "dia": "17/01/2025",
         "canal": "M+ Deportes",
         "encuentro": "Detroit Pistons - Indiana Pacers"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "02:30",
+        "dia": "17/01/2025",
+        "canal": "Eurosport 2",
+        "encuentro": "Badosa - Kostyuk"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "04:30",
+        "dia": "17/01/2025",
+        "canal": "Eurosport 1",
+        "encuentro": "Borges-Alcaraz"
     },
     {
         "deporte": "Golf",
@@ -124,6 +26,13 @@
         "dia": "17/01/2025",
         "canal": "M+ Golf",
         "encuentro": "Jornada 2"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "09:00",
+        "dia": "17/01/2025",
+        "canal": "Eurosport 1",
+        "encuentro": "Djokovic - Machac"
     },
     {
         "deporte": "F\u00fatbol",
@@ -245,6 +154,13 @@
         "encuentro": "Girona - Sevilla"
     },
     {
+        "deporte": "F. Sala",
+        "hora": "15:45",
+        "dia": "18/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Real Betis-ElPozo Murcia"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "16:00",
         "dia": "18/01/2025",
@@ -264,13 +180,6 @@
         "dia": "18/01/2025",
         "canal": "DAZN 4",
         "encuentro": "Leicester - Fulham"
-    },
-    {
-        "deporte": "F. Sala",
-        "hora": "16:00",
-        "dia": "18/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Real Betis-ElPozo Murcia"
     },
     {
         "deporte": "F\u00fatbol",
