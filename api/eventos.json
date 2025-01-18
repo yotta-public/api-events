@@ -1,104 +1,6 @@
 [
     {
         "deporte": "NBA",
-        "hora": "01:00",
-        "dia": "17/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Detroit Pistons - Indiana Pacers"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "02:30",
-        "dia": "17/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Badosa - Kostyuk"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "04:30",
-        "dia": "17/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Borges-Alcaraz"
-    },
-    {
-        "deporte": "Golf",
-        "hora": "08:30",
-        "dia": "17/01/2025",
-        "canal": "M+ Golf",
-        "encuentro": "Jornada 2"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "09:00",
-        "dia": "17/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Djokovic - Machac"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "12:00",
-        "dia": "17/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Sorteo Cuartos de Final"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:00",
-        "dia": "17/01/2025",
-        "canal": "Marca.com",
-        "encuentro": "Al-Taawon-Al Nassr Riyadh"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:00",
-        "dia": "17/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Bahrein-Egipto"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:00",
-        "dia": "17/01/2025",
-        "canal": "M+ Ellas V",
-        "encuentro": "Deportivo Abanca - Levante UD"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:30",
-        "dia": "17/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Baskonia - Panathinaikos"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "17/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Cartagena - Real Oviedo"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "17/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Fc Barcelona - Efes"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "17/01/2025",
-        "canal": "DAZN LALIGA",
-        "encuentro": "Espanyol - Valladolid"
-    },
-    {
-        "deporte": "Motor",
-        "hora": "21:45",
-        "dia": "17/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Etapa 12: Shubaytah-Shubaytah (205 km.)"
-    },
-    {
-        "deporte": "NBA",
         "hora": "02:30",
         "dia": "18/01/2025",
         "canal": "M+ Vamos",
@@ -110,6 +12,13 @@
         "dia": "18/01/2025",
         "canal": "M+ Golf",
         "encuentro": "Jornada 3"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "09:00",
+        "dia": "18/01/2025",
+        "canal": "Eurosport 1",
+        "encuentro": "Sinner - Giron"
     },
     {
         "deporte": "F. Sala",
@@ -368,7 +277,7 @@
         "hora": "13:00",
         "dia": "19/01/2025",
         "canal": "Teledeporte",
-        "encuentro": "Basket Zaragoza - Avenida"
+        "encuentro": "Casademont Zaragoza-Perfumer\u00edas Avenida"
     },
     {
         "deporte": "F\u00fatbol",
@@ -406,6 +315,13 @@
         "encuentro": "Nottingham Forest - Southampton"
     },
     {
+        "deporte": "Ciclocross",
+        "hora": "15:00",
+        "dia": "19/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Elite Masculina (Benidorm)"
+    },
+    {
         "deporte": "Rugby",
         "hora": "16:15",
         "dia": "19/01/2025",
@@ -425,6 +341,13 @@
         "dia": "19/01/2025",
         "canal": "LALIGA TV HYPERMOTION",
         "encuentro": "Racing - Racing Ferrol"
+    },
+    {
+        "deporte": "Balonmano",
+        "hora": "16:30",
+        "dia": "19/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Motivemarket.com Gij\u00f3n-Elda Prestigio"
     },
     {
         "deporte": "Baloncesto",
