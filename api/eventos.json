@@ -1,254 +1,65 @@
 [
     {
-        "deporte": "NBA",
-        "hora": "01:00",
-        "dia": "19/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Boston Celtics - Atlanta Hawks"
-    },
-    {
         "deporte": "NFL",
-        "hora": "02:00",
-        "dia": "19/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Detroit Lions - Washington Commanders"
+        "hora": "00:30",
+        "dia": "20/01/2025",
+        "canal": "Movistar Plus+",
+        "encuentro": "Buffalo Bills - Baltimore Ravens"
     },
     {
         "deporte": "Tenis",
         "hora": "03:30",
-        "dia": "19/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Badosa - Danilovic"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "05:30",
-        "dia": "19/01/2025",
+        "dia": "20/01/2025",
         "canal": "Eurosport 1",
-        "encuentro": "Draper - Alcaraz"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "05:30",
-        "dia": "19/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Davidovich - Paul"
-    },
-    {
-        "deporte": "Golf",
-        "hora": "08:00",
-        "dia": "19/01/2025",
-        "canal": "M+ Golf",
-        "encuentro": "Jornada 4"
+        "encuentro": "Sinner - Rune"
     },
     {
         "deporte": "Tenis",
         "hora": "09:00",
-        "dia": "19/01/2025",
+        "dia": "20/01/2025",
         "canal": "Eurosport 1",
-        "encuentro": "Djokovic - Lehecka"
+        "encuentro": "Lys - Swiatek"
     },
     {
         "deporte": "F\u00fatbol",
-        "hora": "12:00",
-        "dia": "19/01/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Real Madrid - SD Eibar"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "12:00",
-        "dia": "19/01/2025",
-        "canal": "GOL PLAY",
-        "encuentro": "Real Sociedad - Espanyol"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "12:30",
-        "dia": "19/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Coviran Granada - Casademont Zaragoza"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "12:30",
-        "dia": "19/01/2025",
-        "canal": "M+ Deportes 2",
-        "encuentro": "Hiopos Lleida - Dreamland Gran Canaria"
-    },
-    {
-        "deporte": "Baloncesto",
         "hora": "13:00",
-        "dia": "19/01/2025",
+        "dia": "20/01/2025",
         "canal": "Teledeporte",
-        "encuentro": "Casademont Zaragoza-Perfumer\u00edas Avenida"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "14:00",
-        "dia": "19/01/2025",
-        "canal": "DAZN LALIGA 2",
-        "encuentro": "Celta - Athletic"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "14:00",
-        "dia": "19/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Burgos - Deportivo"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "15:00",
-        "dia": "19/01/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Manchester Utd. - Brighton"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "15:00",
-        "dia": "19/01/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Everton - Tottenham"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "15:00",
-        "dia": "19/01/2025",
-        "canal": "DAZN 3",
-        "encuentro": "Nottingham Forest - Southampton"
-    },
-    {
-        "deporte": "Ciclocross",
-        "hora": "15:00",
-        "dia": "19/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Elite Masculina (Benidorm)"
-    },
-    {
-        "deporte": "Rugby",
-        "hora": "16:15",
-        "dia": "19/01/2025",
-        "canal": "M+ Deportes 4",
-        "encuentro": "Toulouse - Leicester Tigers"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:15",
-        "dia": "19/01/2025",
-        "canal": "DAZN LALIGA",
-        "encuentro": "Real Madrid - Las Palmas"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:15",
-        "dia": "19/01/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Racing - Racing Ferrol"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "16:30",
-        "dia": "19/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Motivemarket.com Gij\u00f3n-Elda Prestigio"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "17:00",
-        "dia": "19/01/2025",
-        "canal": "M+ Deportes 3",
-        "encuentro": "Baskonia - R\u00edo Breog\u00e1n"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "17:30",
-        "dia": "19/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Ipswich Town - Manchester City"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "17:30",
-        "dia": "19/01/2025",
-        "canal": "M+ Ellas V",
-        "encuentro": "Sevilla FC - Real Betis F\u00e9minas"
-    },
-    {
-        "deporte": "F. Sala",
-        "hora": "18:00",
-        "dia": "19/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Jimbee Cartagena Costa C\u00e1lida-Real Betis Futsal"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:00",
-        "dia": "19/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Bar\u00e7a - Surne Bilbao Basket"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:30",
-        "dia": "19/01/2025",
-        "canal": "M+ Deportes 2",
-        "encuentro": "Morabanc Andorra - Real Madrid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "19/01/2025",
-        "canal": "M+ LALIGA TV",
-        "encuentro": "Osasuna - Rayo"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "19/01/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Zaragoza - Tenerife"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "19/01/2025",
-        "canal": "LALIGA TV HYPERMOTION 2",
-        "encuentro": "Castell\u00f3n - C\u00f3rdoba"
+        "encuentro": "Sorteo Cuartos de Final"
     },
     {
         "deporte": "Balonmano",
         "hora": "20:30",
-        "dia": "19/01/2025",
+        "dia": "20/01/2025",
         "canal": "Teledeporte",
-        "encuentro": "Noruega-Portugal"
+        "encuentro": "Suecia-Espa\u00f1a"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "20:30",
+        "dia": "20/01/2025",
+        "canal": "LALIGA TV HYPERMOTION",
+        "encuentro": "Mirand\u00e9s - M\u00e1laga"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "21:00",
+        "dia": "20/01/2025",
+        "canal": "DAZN 1",
+        "encuentro": "Chelsea - Wolverhampton"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "21:00",
+        "dia": "20/01/2025",
+        "canal": "GOL PLAY",
+        "encuentro": "Villarreal - Mallorca"
     },
     {
         "deporte": "NBA",
-        "hora": "21:00",
-        "dia": "19/01/2025",
+        "hora": "23:00",
+        "dia": "20/01/2025",
         "canal": "M+ Vamos",
-        "encuentro": "Miami Heat - San Antonio Spurs"
-    },
-    {
-        "deporte": "NFL",
-        "hora": "21:00",
-        "dia": "19/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Philadelphia Eagles - Los Angeles Rams"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "19/01/2025",
-        "canal": "M+ LALIGA TV",
-        "encuentro": "Valencia - Real Sociedad"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "19/01/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Almer\u00eda - Huesca"
+        "encuentro": "Golden State Warriors - Boston Celtics"
     }
 ]
