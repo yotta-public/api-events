@@ -1,61 +1,5 @@
 [
     {
-        "deporte": "NBA",
-        "hora": "01:30",
-        "dia": "23/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Dallas Mavericks - Minnesota Timberwolves"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "09:30",
-        "dia": "23/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Sabalenka - Badosa"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "11:45",
-        "dia": "23/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Keys - Swiatek"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "19:00",
-        "dia": "23/01/2025",
-        "canal": "LA 2",
-        "encuentro": "Real Madrid - Real Sociedad"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "20:00",
-        "dia": "23/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Indiana Pacers - San Antonio Spurs"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "20:30",
-        "dia": "23/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Hungr\u00eda-Austria"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "23/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Real Madrid - Baskonia"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "23/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Lazio - Real Sociedad"
-    },
-    {
         "deporte": "Boxeo",
         "hora": "03:00",
         "dia": "24/01/2025",
@@ -67,14 +11,14 @@
         "hora": "04:30",
         "dia": "24/01/2025",
         "canal": "Eurosport 1",
-        "encuentro": "Sinner - Shelton"
+        "encuentro": "Djokovic - Zverev"
     },
     {
         "deporte": "Tenis",
         "hora": "09:30",
         "dia": "24/01/2025",
         "canal": "Eurosport 1",
-        "encuentro": "Djokovic - Zverev"
+        "encuentro": "Sinner - Shelton"
     },
     {
         "deporte": "Balonmano",
@@ -110,6 +54,13 @@
         "dia": "25/01/2025",
         "canal": "M+ Deportes",
         "encuentro": "Charlotte Hornets - Portland Trailblazers"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "09:30",
+        "dia": "25/01/2025",
+        "canal": "Eurosport 1",
+        "encuentro": "Sabalenka-Keys"
     },
     {
         "deporte": "F. Sala",
@@ -343,6 +294,13 @@
         "encuentro": "Dreamland Gran Canaria - La Laguna Tenerife"
     },
     {
+        "deporte": "Baloncesto",
+        "hora": "13:00",
+        "dia": "26/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Celta Femxa Zorka-Movistar Estudiantes"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "14:00",
         "dia": "26/01/2025",
@@ -418,6 +376,13 @@
         "dia": "26/01/2025",
         "canal": "DAZN 1",
         "encuentro": "Aston Villa - West Ham"
+    },
+    {
+        "deporte": "Balonmano",
+        "hora": "17:30",
+        "dia": "26/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Espa\u00f1a-Brasil"
     },
     {
         "deporte": "F\u00fatbol",
