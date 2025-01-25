@@ -1,54 +1,5 @@
 [
     {
-        "deporte": "Boxeo",
-        "hora": "03:00",
-        "dia": "24/01/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Eric Priest vs Tyler Howard"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "04:30",
-        "dia": "24/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Djokovic - Zverev"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "09:30",
-        "dia": "24/01/2025",
-        "canal": "Eurosport 1",
-        "encuentro": "Sinner - Shelton"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "15:30",
-        "dia": "24/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Espa\u00f1a-Portugal"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:00",
-        "dia": "24/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Asvel - Fc Barcelona"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "24/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Elche - Eibar"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "24/01/2025",
-        "canal": "M+ LALIGA TV",
-        "encuentro": "Las Palmas-Osasuna"
-    },
-    {
         "deporte": "NBA",
         "hora": "01:00",
         "dia": "25/01/2025",
@@ -231,6 +182,13 @@
         "encuentro": "Dalton Smith vs Walid Ouizza"
     },
     {
+        "deporte": "Balonmano",
+        "hora": "20:00",
+        "dia": "25/01/2025",
+        "canal": "DAZN 4",
+        "encuentro": "Elche - Larvik"
+    },
+    {
         "deporte": "Baloncesto",
         "hora": "20:45",
         "dia": "25/01/2025",
@@ -278,6 +236,20 @@
         "dia": "26/01/2025",
         "canal": "DAZN 2",
         "encuentro": "Diego Pacheco vs Steve Nelson"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "09:30",
+        "dia": "26/01/2025",
+        "canal": "Eurosport 1",
+        "encuentro": "Sinner - Zverev"
+    },
+    {
+        "deporte": "F\u00fatbol",
+        "hora": "12:00",
+        "dia": "26/01/2025",
+        "canal": "LA 2",
+        "encuentro": "Barcelona - Real Madrid"
     },
     {
         "deporte": "Baloncesto",
