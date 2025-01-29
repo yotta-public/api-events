@@ -2,55 +2,6 @@
     {
         "deporte": "NBA",
         "hora": "01:30",
-        "dia": "28/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Boston Celtics - Houston Rockets"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "12:30",
-        "dia": "28/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Etapa 1 - Al Manshiyah Train Station"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:00",
-        "dia": "28/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Croacia-Hungr\u00eda"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:30",
-        "dia": "28/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Cedevita Olimpija ljubiliana - Valencia Basket"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:00",
-        "dia": "28/01/2025",
-        "canal": "Arag\u00f3n TV",
-        "encuentro": "USK Praga - Basket Zaragoza"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:15",
-        "dia": "28/01/2025",
-        "canal": "\u00c0 Punt",
-        "encuentro": "Valencia Basket - Fenerbah\u00e7e"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "28/01/2025",
-        "canal": "Esport 3",
-        "encuentro": "Baxi Manresa-Aliaga Petkimspor"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "01:30",
         "dia": "29/01/2025",
         "canal": "M+ Deportes",
         "encuentro": "Philadelphia 76ers - Los Angeles Lakers"
@@ -63,10 +14,17 @@
         "encuentro": "Etapa 2 - AlUla Old Town - Bir Jaydah Mountain Wirkah"
     },
     {
+        "deporte": "F. Sala",
+        "hora": "13:00",
+        "dia": "29/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Murcia"
+    },
+    {
         "deporte": "Ciclismo",
         "hora": "14:30",
         "dia": "29/01/2025",
-        "canal": "Eurosport 2",
+        "canal": "Teledeporte",
         "encuentro": "Trofeo Calvi\u00e0 Palmanova"
     },
     {
@@ -82,6 +40,13 @@
         "dia": "29/01/2025",
         "canal": "Arag\u00f3n TV",
         "encuentro": "Basket Zaragoza - Maroussi"
+    },
+    {
+        "deporte": "Balonmano",
+        "hora": "20:30",
+        "dia": "29/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Portugal-Alemania"
     },
     {
         "deporte": "F\u00fatbol",
@@ -241,8 +206,15 @@
         "deporte": "Ciclismo",
         "hora": "14:30",
         "dia": "30/01/2025",
-        "canal": "Eurosport 2",
+        "canal": "Teledeporte",
         "encuentro": "Trofeo Ses Salines - Colonia de Sant Jordi"
+    },
+    {
+        "deporte": "Padel",
+        "hora": "16:30",
+        "dia": "30/01/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Madrid"
     },
     {
         "deporte": "Baloncesto",
