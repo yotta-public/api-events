@@ -1,164 +1,17 @@
 [
     {
         "deporte": "NBA",
-        "hora": "01:30",
-        "dia": "30/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Philadelphia 76ers - Sacramento Kings"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "12:30",
-        "dia": "30/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Etapa 3 - Hegra - Tayma Fort"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "14:30",
-        "dia": "30/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Trofeo Ses Salines - Colonia de Sant Jordi"
-    },
-    {
-        "deporte": "Padel",
-        "hora": "17:30",
-        "dia": "30/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Madrid"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:30",
-        "dia": "30/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Baskonia - FC Barcelona"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "21:00",
-        "dia": "30/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Francia-Croacia"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "30/01/2025",
-        "canal": "M+ Liga de Campeones",
-        "encuentro": "Real Sociedad - PAOK"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "30/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Athletic - Viktoria Plzen"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "01:00",
-        "dia": "31/01/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Cleveland Cavaliers - Atlanta Hawks"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "12:00",
-        "dia": "31/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Sorteo Fase Play-offs"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "12:30",
-        "dia": "31/01/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Etapa 4 - Maraya - Skyviews of Harrat Uwayrid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "13:00",
-        "dia": "31/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Sorteo de Play-Offs"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "14:30",
-        "dia": "31/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Trofeo Serra de Tramuntana"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:30",
-        "dia": "31/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Oses Construcci\u00f3n-Dur\u00e1n Maquinaria Ensino"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "19:00",
-        "dia": "31/01/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Monaco - Real Madrid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:00",
-        "dia": "31/01/2025",
-        "canal": "M+ Ellas V",
-        "encuentro": "Real Madrid - Espanyol"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:00",
-        "dia": "31/01/2025",
-        "canal": "Arag\u00f3n TV",
-        "encuentro": "Basket Zaragoza - Celta"
-    },
-    {
-        "deporte": "Boxeo",
-        "hora": "20:00",
-        "dia": "31/01/2025",
-        "canal": "DAZN 3",
-        "encuentro": "George Liddard vs. Derrick Osaze"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "20:30",
-        "dia": "31/01/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Dinamarca-Portugal"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "20:30",
-        "dia": "31/01/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Eldense - Granada"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "31/01/2025",
-        "canal": "GOL PLAY",
-        "encuentro": "Legan\u00e9s - Rayo"
-    },
-    {
-        "deporte": "Rugby",
-        "hora": "21:15",
-        "dia": "31/01/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Francia - Gales"
-    },
-    {
-        "deporte": "NBA",
         "hora": "02:00",
         "dia": "01/02/2025",
         "canal": "M+ Vamos",
         "encuentro": "New Orleans Pelicans - Boston Celtics"
+    },
+    {
+        "deporte": "Esqu\u00ed",
+        "hora": "10:00",
+        "dia": "01/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Prueba Sprint (Boi Taull)"
     },
     {
         "deporte": "F\u00fatbol",
@@ -182,6 +35,13 @@
         "encuentro": "Suiza-Espa\u00f1a"
     },
     {
+        "deporte": "Ciclocross",
+        "hora": "13:00",
+        "dia": "01/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Prueba Sub-23 masculina (Lievin)"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "13:30",
         "dia": "01/02/2025",
@@ -201,6 +61,13 @@
         "dia": "01/02/2025",
         "canal": "Movistar Plus+",
         "encuentro": "Mirand\u00e9s - Elche"
+    },
+    {
+        "deporte": "Ciclismo",
+        "hora": "14:30",
+        "dia": "01/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Trofeo Andratx-Mirador del Colomer"
     },
     {
         "deporte": "Rugby",
@@ -232,13 +99,6 @@
     },
     {
         "deporte": "F\u00fatbol",
-        "hora": "16:00",
-        "dia": "01/02/2025",
-        "canal": "DAZN 4",
-        "encuentro": "Ipswich Town - Southampton"
-    },
-    {
-        "deporte": "F\u00fatbol",
         "hora": "16:15",
         "dia": "01/02/2025",
         "canal": "M+ LALIGA TV",
@@ -250,6 +110,13 @@
         "dia": "01/02/2025",
         "canal": "LALIGA TV HYPERMOTION",
         "encuentro": "Sporting - Burgos"
+    },
+    {
+        "deporte": "F. Sala",
+        "hora": "16:30",
+        "dia": "01/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Poio Pescamar-Futsi Atl\u00e9tico Navalcarnero"
     },
     {
         "deporte": "Rugby",
@@ -301,6 +168,20 @@
         "encuentro": "Almer\u00eda - Real Oviedo"
     },
     {
+        "deporte": "Balonmano",
+        "hora": "18:30",
+        "dia": "01/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Caja Rural Aula Valladolid-Super Amara Bera Bera"
+    },
+    {
+        "deporte": "F. Sala",
+        "hora": "20:15",
+        "dia": "01/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "CD Burela FS-Melilla Ciudad Deporte Torreblanca"
+    },
+    {
         "deporte": "Baloncesto",
         "hora": "20:45",
         "dia": "01/02/2025",
@@ -343,6 +224,13 @@
         "encuentro": "Oklahoma City Thunder - Sacramento Kings"
     },
     {
+        "deporte": "Esqu\u00ed",
+        "hora": "10:30",
+        "dia": "02/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Prueba Relevos Mixtos (Boi Taull)"
+    },
+    {
         "deporte": "F\u00fatbol",
         "hora": "12:00",
         "dia": "02/02/2025",
@@ -378,6 +266,13 @@
         "encuentro": "Trofeo Palma"
     },
     {
+        "deporte": "Rugby",
+        "hora": "12:45",
+        "dia": "02/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Espa\u00f1a-Pa\u00edses Bajos"
+    },
+    {
         "deporte": "Baloncesto",
         "hora": "13:00",
         "dia": "02/02/2025",
@@ -399,11 +294,11 @@
         "encuentro": "Castell\u00f3n - Huesca"
     },
     {
-        "deporte": "Ciclismo",
-        "hora": "14:45",
+        "deporte": "Ciclocross",
+        "hora": "15:00",
         "dia": "02/02/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Lievin (Francia)"
+        "canal": "Teledeporte",
+        "encuentro": "Prueba Elite Masculina (Lievin)"
     },
     {
         "deporte": "F\u00fatbol",
@@ -467,6 +362,13 @@
         "dia": "02/02/2025",
         "canal": "M+ Ellas V",
         "encuentro": "Granada CF - Atl\u00e9tico de Madrid"
+    },
+    {
+        "deporte": "Balonmano",
+        "hora": "18:00",
+        "dia": "02/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Croacia-Dinamarca"
     },
     {
         "deporte": "Baloncesto",
