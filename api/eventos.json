@@ -2,223 +2,6 @@
     {
         "deporte": "NBA",
         "hora": "02:00",
-        "dia": "01/02/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "New Orleans Pelicans - Boston Celtics"
-    },
-    {
-        "deporte": "Esqu\u00ed",
-        "hora": "10:00",
-        "dia": "01/02/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Prueba Sprint (Boi Taull)"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "12:00",
-        "dia": "01/02/2025",
-        "canal": "M+ Ellas V",
-        "encuentro": "Madrid CFF - Real Sociedad"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "12:45",
-        "dia": "01/02/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "Etapa 5 - AlUla Camel Cup Track"
-    },
-    {
-        "deporte": "Tenis",
-        "hora": "13:00",
-        "dia": "01/02/2025",
-        "canal": "M+ Vamos",
-        "encuentro": "Suiza-Espa\u00f1a"
-    },
-    {
-        "deporte": "Ciclocross",
-        "hora": "13:00",
-        "dia": "01/02/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Prueba Sub-23 masculina (Lievin)"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "13:30",
-        "dia": "01/02/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Nottingham Forest - Brighton & Hove Albion"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "14:00",
-        "dia": "01/02/2025",
-        "canal": "DAZN LALIGA",
-        "encuentro": "Getafe - Sevilla"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "14:00",
-        "dia": "01/02/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Mirand\u00e9s - Elche"
-    },
-    {
-        "deporte": "Ciclismo",
-        "hora": "14:30",
-        "dia": "01/02/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Trofeo Andratx-Mirador del Colomer"
-    },
-    {
-        "deporte": "Rugby",
-        "hora": "15:15",
-        "dia": "01/02/2025",
-        "canal": "Movistar Plus+ 2",
-        "encuentro": "Escocia - Italia"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:00",
-        "dia": "01/02/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Bournemouth - Liverpool"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:00",
-        "dia": "01/02/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Newcastle - Fulham"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:00",
-        "dia": "01/02/2025",
-        "canal": "DAZN 3",
-        "encuentro": "Everton - Leicester"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:15",
-        "dia": "01/02/2025",
-        "canal": "M+ LALIGA TV",
-        "encuentro": "Villarreal - Valladolid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "16:15",
-        "dia": "01/02/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Sporting - Burgos"
-    },
-    {
-        "deporte": "F. Sala",
-        "hora": "16:30",
-        "dia": "01/02/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Poio Pescamar-Futsi Atl\u00e9tico Navalcarnero"
-    },
-    {
-        "deporte": "Rugby",
-        "hora": "17:45",
-        "dia": "01/02/2025",
-        "canal": "Movistar Plus+ 2",
-        "encuentro": "Irlanda - Inglaterra"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:00",
-        "dia": "01/02/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Casademont Zaragoza - UCAM Murcia"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "18:00",
-        "dia": "01/02/2025",
-        "canal": "M+ Deportes 2",
-        "encuentro": "Coviran Granada - B\u00e0squet Girona"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "01/02/2025",
-        "canal": "DAZN 2",
-        "encuentro": "Wolverhampton - Aston Villa"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "01/02/2025",
-        "canal": "DAZN 1",
-        "encuentro": "Barcelona - Levante"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "01/02/2025",
-        "canal": "DAZN LALIGA",
-        "encuentro": "Atl\u00e9tico de Madrid - Mallorca"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "18:30",
-        "dia": "01/02/2025",
-        "canal": "Movistar Plus+",
-        "encuentro": "Almer\u00eda - Real Oviedo"
-    },
-    {
-        "deporte": "Balonmano",
-        "hora": "18:30",
-        "dia": "01/02/2025",
-        "canal": "Teledeporte",
-        "encuentro": "Caja Rural Aula Valladolid-Super Amara Bera Bera"
-    },
-    {
-        "deporte": "F. Sala",
-        "hora": "20:15",
-        "dia": "01/02/2025",
-        "canal": "Teledeporte",
-        "encuentro": "CD Burela FS-Melilla Ciudad Deporte Torreblanca"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "01/02/2025",
-        "canal": "M+ Deportes",
-        "encuentro": "Morabanc Andorra - Valencia Basket"
-    },
-    {
-        "deporte": "Baloncesto",
-        "hora": "20:45",
-        "dia": "01/02/2025",
-        "canal": "M+ Deportes 2",
-        "encuentro": "Leyma Coru\u00f1a - Dreamland Gran Canaria"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "01/02/2025",
-        "canal": "DAZN LALIGA",
-        "encuentro": "Espanyol - Real Madrid"
-    },
-    {
-        "deporte": "F\u00fatbol",
-        "hora": "21:00",
-        "dia": "01/02/2025",
-        "canal": "LALIGA TV HYPERMOTION",
-        "encuentro": "Racing - M\u00e1laga"
-    },
-    {
-        "deporte": "Boxeo",
-        "hora": "22:00",
-        "dia": "01/02/2025",
-        "canal": "Eurosport 2",
-        "encuentro": "David Benavidez - David Morrell"
-    },
-    {
-        "deporte": "NBA",
-        "hora": "02:00",
         "dia": "02/02/2025",
         "canal": "M+ Deportes",
         "encuentro": "Oklahoma City Thunder - Sacramento Kings"
@@ -292,6 +75,13 @@
         "dia": "02/02/2025",
         "canal": "LALIGA TV HYPERMOTION",
         "encuentro": "Castell\u00f3n - Huesca"
+    },
+    {
+        "deporte": "Tenis",
+        "hora": "15:00",
+        "dia": "02/02/2025",
+        "canal": "M+ Deportes 4",
+        "encuentro": "Kovacevic-Auger Aliassime"
     },
     {
         "deporte": "Ciclocross",
@@ -397,6 +187,13 @@
         "dia": "02/02/2025",
         "canal": "LALIGA TV HYPERMOTION 2",
         "encuentro": "Cartagena - C\u00f3rdoba"
+    },
+    {
+        "deporte": "F. Sala",
+        "hora": "20:00",
+        "dia": "02/02/2025",
+        "canal": "Teledeporte",
+        "encuentro": "Melilla Ciudad del Deporte Torreblanca-Futsi Atl\u00e9tico Navalcarnero"
     },
     {
         "deporte": "F\u00fatbol",
